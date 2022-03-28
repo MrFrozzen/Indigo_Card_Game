@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-List-Are_you_there.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-List-Concise.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-List-Even_numbers.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-List-It's_all_about_the_List.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-List-My_position.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-List-Number_of_occurrences.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-List-Sum_of_numbers.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-List-Theory.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Mutable_List-Add_them_all.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Mutable_List-Adding.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Mutable_List-MutableList_properties.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Mutable_List-New_List.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Mutable_List-Remove_us.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Mutable_List-Theory.main" target="11" />
+      <module name="Indigo_Card_Game.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
