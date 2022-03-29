@@ -2,6 +2,10 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="17">
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task-build-classes-kotlin.main" target="11" />
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task-build-reports-tests.main" target="11" />
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task-build-test-results.main" target="11" />
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task-build-tmp.main" target="11" />
       <module name="Indigo_Card_Game.Indigo_Card_Game-task.main" target="11" />
       <module name="Indigo_Card_Game.Topics-List-Are_you_there.main" target="11" />
       <module name="Indigo_Card_Game.Topics-List-Concise.main" target="11" />
@@ -17,6 +21,11 @@
       <module name="Indigo_Card_Game.Topics-Mutable_List-New_List.main" target="11" />
       <module name="Indigo_Card_Game.Topics-Mutable_List-Remove_us.main" target="11" />
       <module name="Indigo_Card_Game.Topics-Mutable_List-Theory.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Nested_and_inner_classes-Nested_or_inner.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Nested_and_inner_classes-New_Inner_class.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Nested_and_inner_classes-Pumpkin_and_candle.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Nested_and_inner_classes-Theory.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Nested_and_inner_classes-Your_vehicle.main" target="11" />
       <module name="Indigo_Card_Game.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>
